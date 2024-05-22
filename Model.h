@@ -13,7 +13,7 @@ public:
 	// Loads in a model from a file and stores tha information in 'data', 'JSON', and 'file'
 	Model(const char* file);
 
-	void Draw(Shader& shader, Camera& camera);
+	void Draw(Shader& shader, Camera& camera, glm::mat4 matrix, glm::vec3 translation, glm::quat rotation, glm::vec3 scale);
 
 private:
 	// Variables for easy access
