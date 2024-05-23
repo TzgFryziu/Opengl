@@ -1,11 +1,5 @@
-# My Awesome Project
+# OpenGL project Gears / AGH_WIMiIP
 
-Here is a demonstration of my project in action:
-
-![Demo](jeden.gif)
 ![Demo](dwa.gif)
+![Demo](jeden.gif)
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
