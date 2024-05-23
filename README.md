@@ -3,6 +3,7 @@
 Here is a demonstration of my project in action:
 
 ![Demo](jeden.gif)
+![Demo](dwa.gif)
 
 ## Features
 - Feature 1
