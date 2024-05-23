@@ -22,7 +22,7 @@ int main()
 	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 
 	// create a GLFWwindow object of 800 by 800 pixels, naming it "YoutubeOpenGL", then if fullscreen, then idk?
-	GLFWwindow* window = glfwCreateWindow(width, height, "YoutubeOpenGL", NULL, NULL);
+	GLFWwindow* window = glfwCreateWindow(width, height, "Gears Project", NULL, NULL);
 
 	// error check if the window fails to create
 	if (window == NULL)
